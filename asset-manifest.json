@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pintake/static/js/main.41e9538b.js",
+    "main.js": "/pintake/static/js/main.fac82021.js",
     "index.html": "/pintake/index.html",
-    "main.41e9538b.js.map": "/pintake/static/js/main.41e9538b.js.map"
+    "main.fac82021.js.map": "/pintake/static/js/main.fac82021.js.map"
   },
   "entrypoints": [
-    "static/js/main.41e9538b.js"
+    "static/js/main.fac82021.js"
   ]
 }
